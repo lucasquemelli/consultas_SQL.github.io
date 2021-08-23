@@ -27,3 +27,5 @@ Podemos diminuir o zoom e movimentar as tabelas de acordo com a necessidade:
 Podemos clicar na linha de conexão entre as tabelas para ver qual a relação entre elas:
 
 ![image](https://user-images.githubusercontent.com/81119854/130453268-07e3580f-9b02-4832-9983-e9c2fae32cf8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130453423-d28731e4-7149-4f77-abcb-1890368d47f9.png)
