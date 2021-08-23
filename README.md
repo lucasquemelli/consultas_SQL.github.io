@@ -135,3 +135,10 @@ Note que, ao colocarmos o campo EMBALAGEM antes do campo NOME_DO_PRODUTO, primei
 Também podemos mesclar os critérios de seleção:
 
 ![image](https://user-images.githubusercontent.com/81119854/130523602-ca239083-a73d-4a07-b8d1-f1893a21dd79.png)
+
+- Qual (ou quais) foi (foram) a(s) maior(es) venda(s) do produto “Linha Refrescante - 1 Litro - Morango/Limão”, em quantidade? (Obtenha este resultado usando 2 SQLs).
+
+O primeiro SQL foi para determinar o código do produto a partir do nome fornecido no enunciado da questão:
+
+![image](https://user-images.githubusercontent.com/81119854/130524155-4324ad15-f5b6-4791-800e-35dbab819ccb.png)
+
