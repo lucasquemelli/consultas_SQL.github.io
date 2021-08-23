@@ -51,3 +51,6 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 - Mesclando condições de diferentes campos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130489663-579f1e1c-94dc-4312-812e-779758444399.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130490258-0ce1ef50-2c94-47af-92eb-fafaa88acd55.png)
+
