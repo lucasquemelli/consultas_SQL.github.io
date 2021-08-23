@@ -21,3 +21,6 @@ Podemos gerar gerar um esquema visual de uma tabela (e das tabelas a ela relacio
 Podemos diminuir o zoom e movimentar as tabelas de acordo com a necessidade:
 
 ![image](https://user-images.githubusercontent.com/81119854/130452488-1ae458aa-e050-4b9b-8233-36f815d3d6ea.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130452818-bc755a7f-3537-472b-b8d5-37d927587c6a.png)
+
