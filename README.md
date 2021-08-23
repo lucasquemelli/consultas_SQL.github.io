@@ -131,3 +131,7 @@ Utilizando o comando DESC:
 ![image](https://user-images.githubusercontent.com/81119854/130523071-91c7e36c-3737-4d8c-999c-16cff6278119.png)
 
 Note que, ao colocarmos o campo EMBALAGEM antes do campo NOME_DO_PRODUTO, primeiro segue-se o critério alfabético para o campo EMBALAGEM. Após o fim de um critério alfabético do primeiro campo (nesta caso: Garrafa), inicia-se o próximo critério do primeiro campo. 
+
+Também podemos mesclar os critérios de seleção:
+
+![image](https://user-images.githubusercontent.com/81119854/130523602-ca239083-a73d-4a07-b8d1-f1893a21dd79.png)
