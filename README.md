@@ -30,6 +30,8 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 
 ![image](https://user-images.githubusercontent.com/81119854/130453423-d28731e4-7149-4f77-abcb-1890368d47f9.png)
 
+# Básico de consultas
+
 - Aplicando consultas condicionais:
 
 ![image](https://user-images.githubusercontent.com/81119854/130487284-effe2c36-f717-43e4-8224-d066d8494fba.png)
@@ -63,4 +65,6 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 Para responder esta a questão, devemos considerar que o último sobrenome é o item desejado. Assim, ao usarmos o comando LIKE, o símbolo '%' deve indicar que há conteúdo na frente do sobrenome, mas não há nada atrás.
 
 ![image](https://user-images.githubusercontent.com/81119854/130492521-c129fef2-29ac-454a-9fd9-5da9b77919db.png)
+
+# Apresentação dos dados de uma consulta
 
