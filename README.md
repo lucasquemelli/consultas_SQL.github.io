@@ -163,3 +163,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Podemos utilizar a função COUNT para contarmos o número de tipos de embalagens:
 
 ![image](https://user-images.githubusercontent.com/81119854/130528068-6c47c36f-9e8a-4c4f-9ff7-0f1ef3313550.png)
+
+- Limite total de créditos de clientes por bairro:
+
+![image](https://user-images.githubusercontent.com/81119854/130528344-21fdbdb7-d850-43f2-bfc0-ff1b1e2b5b3d.png)
