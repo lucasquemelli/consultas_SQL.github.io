@@ -171,3 +171,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Podemos agrupar o limite total de créditos de clientes por bairros de uma cidade específica:
 
 ![image](https://user-images.githubusercontent.com/81119854/130528499-a09c0934-142d-43f2-94f7-19fef82b846f.png)
+
+- Podemos agrupar por bairros de estados diferentes:
+
+![image](https://user-images.githubusercontent.com/81119854/130528763-36f6b803-f4a5-4aff-b846-a6ad10717bd6.png)
