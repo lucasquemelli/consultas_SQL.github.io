@@ -39,3 +39,5 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 - Aplicando NOT no comando acima:
 
 ![image](https://user-images.githubusercontent.com/81119854/130487778-5979112d-dfb0-4597-8bb1-40995d4a1587.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130488024-b0c5077e-aafa-443a-ad7a-bcd82c56e8b0.png)
