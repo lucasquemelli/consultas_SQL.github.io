@@ -43,3 +43,7 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 ![image](https://user-images.githubusercontent.com/81119854/130488473-d42b9ab1-1533-482f-9386-0c1e97c0fb34.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130488810-470e197c-8d74-4ae5-87b1-3ce606f4e8d6.png)
+
+- Também podemos aplicar condições que expressem um conjunto:
+
+![image](https://user-images.githubusercontent.com/81119854/130489146-75c0a31b-b426-4b09-b316-993ef02843fd.png)
