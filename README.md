@@ -159,3 +159,7 @@ Também podemos agrupar o preço por embalagem:
 Para agrupar pelo valor máximo do preço, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130527800-fdf35d4d-06fa-464e-9477-ae4561d61953.png)
+
+- Podemos utilizar a função COUNT para contarmos o número de tipos de embalagens:
+
+![image](https://user-images.githubusercontent.com/81119854/130528068-6c47c36f-9e8a-4c4f-9ff7-0f1ef3313550.png)
