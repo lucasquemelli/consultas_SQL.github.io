@@ -149,3 +149,5 @@ O segundo SQL foi para determinar as maiores vendas do produto mencionado:
 - Podemos agrupar respostas. Por exemplo, para o limite de crédito dos clientes, temos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130525472-4be45478-e59a-46b0-ad43-fd47879081c8.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130527376-f3bbb38c-bbb5-4c16-953f-efa083e4883e.png)
