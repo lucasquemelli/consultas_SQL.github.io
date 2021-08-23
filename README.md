@@ -80,6 +80,10 @@ Entretanto, ao utilizarmos o comando DISTINCT, os valores exibidos serão aquele
 
 ![image](https://user-images.githubusercontent.com/81119854/130495043-816f1600-95b8-4428-a913-52fa24abb6b5.png)
 
-- Se aumentarmos os campos de busca, o número de combinações aumenta e, consequentemente, aumenta as opções apresentadas como resultado:
+- Se aumentarmos os campos de busca, o número de combinações aumenta e, consequentemente, aumentam as opções apresentadas como resultado:
 
 ![image](https://user-images.githubusercontent.com/81119854/130495421-3b780d79-e0d3-439f-aa3c-1a668f2ae0b0.png)
+
+Exercício: Quais são os bairros da cidade do Rio de Janeiro que possuem clientes?
+
+![image](https://user-images.githubusercontent.com/81119854/130495856-9d7e60f6-8070-431d-a805-ab9f9de8a429.png)
