@@ -75,3 +75,7 @@ Para responder esta a questão, devemos considerar que o último sobrenome é o 
 Entretanto, ao utilizarmos o comando DISTINCT, os valores exibidos serão aqueles que a combinação entre EMBALAGEM e TAMANHO não é repetida:
 
 ![image](https://user-images.githubusercontent.com/81119854/130494671-1d05267e-1657-45a9-aa03-d73323455ccc.png)
+
+- Também podemos utilizar o comando DISTINCT com alguma outra condição:
+
+![image](https://user-images.githubusercontent.com/81119854/130495043-816f1600-95b8-4428-a913-52fa24abb6b5.png)
