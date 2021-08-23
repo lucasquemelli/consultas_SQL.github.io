@@ -118,3 +118,7 @@ Note que, ao utilizar ORDER BY, os preços foram ordenados em ordem crescente. P
 
 ![image](https://user-images.githubusercontent.com/81119854/130522570-3908540a-e531-47a7-85de-34caee7c6b68.png)
 
+- Também podemos fazer ordenações por strings:
+
+![image](https://user-images.githubusercontent.com/81119854/130522735-1e1b39ea-c73f-4f31-b4bf-ad855e9e0df7.png)
+
