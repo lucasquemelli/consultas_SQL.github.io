@@ -99,3 +99,13 @@ Podemos, também, limitarmos a exibição de valores a partir de uma posição e
 A partir da posição zero:
 
 ![image](https://user-images.githubusercontent.com/81119854/130502035-b2c73bcf-2490-413d-a81e-7004e3eeb04a.png)
+
+- Exercício: Queremos obter as 10 primeiras vendas do dia 01/01/2017. Qual seria o comando SQL para obter este resultado?
+
+Para resolvermos esta questão, primeiramente, devemos identificar qual a tabela que contém as informações desejadas. Neste caso, é a tabela "notas_fiscais":
+
+![image](https://user-images.githubusercontent.com/81119854/130502439-8f30c363-cb82-45e6-a44e-01e997065c87.png)
+
+Assim, podemos executar os comandos necessários:
+
+![image](https://user-images.githubusercontent.com/81119854/130502822-6c67ae30-e46f-4a8b-902a-4cf2b425a78a.png)
