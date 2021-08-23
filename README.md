@@ -68,3 +68,10 @@ Para responder esta a questão, devemos considerar que o último sobrenome é o 
 
 # Apresentação dos dados de uma consulta
 
+- Utilizamos DISTINCT para selecionarmos valores que não se repetem. Por exemplo, ao escolhermos os campos EMBALAGEM e TAMANHO da tabela de produtos, vários valores são apresentados: 
+
+![image](https://user-images.githubusercontent.com/81119854/130494498-ae790e16-513e-4b1b-b3a4-eb0a75b0e384.png)
+
+Entretanto, ao utilizarmos o comando DISTINCT, os valores exibidos serão aqueles que a combinação entre EMBALAGEM e TAMANHO não é repetida:
+
+![image](https://user-images.githubusercontent.com/81119854/130494671-1d05267e-1657-45a9-aa03-d73323455ccc.png)
