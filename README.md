@@ -87,3 +87,11 @@ Entretanto, ao utilizarmos o comando DISTINCT, os valores exibidos serão aquele
 Exercício: Quais são os bairros da cidade do Rio de Janeiro que possuem clientes?
 
 ![image](https://user-images.githubusercontent.com/81119854/130495856-9d7e60f6-8070-431d-a805-ab9f9de8a429.png)
+
+- Limitando o número de componentes a serem exibidos em uma tabela:
+
+![image](https://user-images.githubusercontent.com/81119854/130500998-9955f732-2b1f-438e-9744-34b95aa148e4.png)
+
+Podemos, também, limitarmos a exibição de valores a partir de uma posição e estabelecendo uma quantidade de registros a serem exibidos. Por exemplo, ao utilizarmos 'LIMIT 2,3', estamos estabelecendo que queremos começar a exibir a partir do próximo valor depois do segundo (ou seja, o terceiro) e queremos exibir 3 valores:
+
+![image](https://user-images.githubusercontent.com/81119854/130501597-c6a9517b-1252-4e1b-9505-4b5bfaed9ac1.png)
