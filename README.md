@@ -57,3 +57,7 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 - Usando o comando LIKE:
 
 ![image](https://user-images.githubusercontent.com/81119854/130491855-22ea6c6a-ea00-4359-b503-18681555cd96.png)
+
+- Exercício: Quantos clientes possuem o último sobrenome Mattos?
+
+Para responder esta a questão, devemos considerar que 
