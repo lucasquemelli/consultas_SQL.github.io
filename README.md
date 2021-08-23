@@ -60,4 +60,7 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 
 - Exercício: Quantos clientes possuem o último sobrenome Mattos?
 
-Para responder esta a questão, devemos considerar que 
+Para responder esta a questão, devemos considerar que o último sobrenome é o item desejado. Assim, ao usarmos o comando LIKE, o símbolo '%' deve indicar que há conteúdo na frente do sobrenome, mas não há nada atrás.
+
+![image](https://user-images.githubusercontent.com/81119854/130492521-c129fef2-29ac-454a-9fd9-5da9b77919db.png)
+
