@@ -142,3 +142,6 @@ O primeiro SQL foi para determinar o código do produto a partir do nome forneci
 
 ![image](https://user-images.githubusercontent.com/81119854/130524155-4324ad15-f5b6-4791-800e-35dbab819ccb.png)
 
+O segundo SQL foi para determinar as maiores vendas do produto mencionado:
+
+![image](https://user-images.githubusercontent.com/81119854/130524546-e5cec800-0757-48af-907c-f76450a03ff1.png)
