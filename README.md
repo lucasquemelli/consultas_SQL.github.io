@@ -179,3 +179,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Além de agrupados, os dados podem também estar ordenados:
 
 ![image](https://user-images.githubusercontent.com/81119854/130529015-1d5d2c2e-706e-496b-b567-54007b37676f.png)
+
+- Exercício: Quantos itens de venda existem com a maior quantidade do produto '1101035'?
+
+![image](https://user-images.githubusercontent.com/81119854/130529455-f853daa9-5a26-4c84-be95-e72557e841de.png)
