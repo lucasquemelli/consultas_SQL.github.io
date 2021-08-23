@@ -125,3 +125,9 @@ Note que, ao utilizar ORDER BY, os preços foram ordenados em ordem crescente. P
 Utilizando o comando DESC:
 
 ![image](https://user-images.githubusercontent.com/81119854/130522850-4272f58e-2774-47ff-b2eb-8348d11d5b0d.png)
+
+- Podemos ordenar strings de forma composta:
+
+![image](https://user-images.githubusercontent.com/81119854/130523071-91c7e36c-3737-4d8c-999c-16cff6278119.png)
+
+Note que, ao colocarmos o campo EMBALAGEM antes do campo NOME_DO_PRODUTO, primeiro segue-se o critério alfabético para o campo EMBALAGEM. Após o fim de um critério alfabético do primeiro campo (nesta caso: Garrafa), inicia-se o próximo critério do primeiro campo. 
