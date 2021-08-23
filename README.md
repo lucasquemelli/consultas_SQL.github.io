@@ -33,3 +33,5 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 - Aplicando consultas condicionais:
 
 ![image](https://user-images.githubusercontent.com/81119854/130487284-effe2c36-f717-43e4-8224-d066d8494fba.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130487492-e9d0a859-4a2a-4fe8-94bc-907083f1ed44.png)
