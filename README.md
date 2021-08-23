@@ -145,3 +145,7 @@ O primeiro SQL foi para determinar o código do produto a partir do nome forneci
 O segundo SQL foi para determinar as maiores vendas do produto mencionado:
 
 ![image](https://user-images.githubusercontent.com/81119854/130524546-e5cec800-0757-48af-907c-f76450a03ff1.png)
+
+- Podemos agrupar respostas. Por exemplo, para o limite de crédito dos clientes, temos:
+
+![image](https://user-images.githubusercontent.com/81119854/130525472-4be45478-e59a-46b0-ad43-fd47879081c8.png)
