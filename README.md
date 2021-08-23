@@ -109,3 +109,10 @@ Para resolvermos esta questão, primeiramente, devemos identificar qual a tabela
 Assim, podemos executar os comandos necessários:
 
 ![image](https://user-images.githubusercontent.com/81119854/130502822-6c67ae30-e46f-4a8b-902a-4cf2b425a78a.png)
+
+- Para fazer ordenação dos registros de uma tabela, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/130522316-0d5d17a9-7ac7-49f3-8c8f-d99a0b10d58f.png)
+
+Note que, ao utilizar ORDER BY, os preços foram ordenados em ordem crescente.
+
