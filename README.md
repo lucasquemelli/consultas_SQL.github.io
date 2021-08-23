@@ -54,3 +54,6 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 
 ![image](https://user-images.githubusercontent.com/81119854/130490258-0ce1ef50-2c94-47af-92eb-fafaa88acd55.png)
 
+- Usando o comando LIKE:
+
+![image](https://user-images.githubusercontent.com/81119854/130491855-22ea6c6a-ea00-4359-b503-18681555cd96.png)
