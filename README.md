@@ -151,3 +151,11 @@ O segundo SQL foi para determinar as maiores vendas do produto mencionado:
 ![image](https://user-images.githubusercontent.com/81119854/130525472-4be45478-e59a-46b0-ad43-fd47879081c8.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/130527376-f3bbb38c-bbb5-4c16-953f-efa083e4883e.png)
+
+Também podemos agrupar o preço por embalagem:
+
+![image](https://user-images.githubusercontent.com/81119854/130527655-aa0a8b56-8089-4ffa-ae37-f56f7c5c2104.png)
+
+Para agrupar pelo valor máximo do preço, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/130527800-fdf35d4d-06fa-464e-9477-ae4561d61953.png)
