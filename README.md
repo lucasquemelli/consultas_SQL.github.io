@@ -95,3 +95,7 @@ Exercício: Quais são os bairros da cidade do Rio de Janeiro que possuem client
 Podemos, também, limitarmos a exibição de valores a partir de uma posição e estabelecendo uma quantidade de registros a serem exibidos. Por exemplo, ao utilizarmos 'LIMIT 2,3', estamos estabelecendo que queremos começar a exibir a partir do valor na posição 2 (inicia-se a contagem em 0) e queremos exibir 3 valores:
 
 ![image](https://user-images.githubusercontent.com/81119854/130501597-c6a9517b-1252-4e1b-9505-4b5bfaed9ac1.png)
+
+A partir da posição zero:
+
+![image](https://user-images.githubusercontent.com/81119854/130502035-b2c73bcf-2490-413d-a81e-7004e3eeb04a.png)
