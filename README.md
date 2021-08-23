@@ -175,3 +175,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Podemos agrupar por bairros de estados diferentes:
 
 ![image](https://user-images.githubusercontent.com/81119854/130528763-36f6b803-f4a5-4aff-b846-a6ad10717bd6.png)
+
+- Além de agrupados, os dados podem também estar ordenados:
+
+![image](https://user-images.githubusercontent.com/81119854/130529015-1d5d2c2e-706e-496b-b567-54007b37676f.png)
