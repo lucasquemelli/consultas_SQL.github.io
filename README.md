@@ -47,3 +47,7 @@ Este é um repositório para comandos avançados de SQL sobre consultas.
 - Também podemos aplicar condições que expressem um conjunto:
 
 ![image](https://user-images.githubusercontent.com/81119854/130489146-75c0a31b-b426-4b09-b316-993ef02843fd.png)
+
+- Mesclando condições de diferentes campos:
+
+![image](https://user-images.githubusercontent.com/81119854/130489663-579f1e1c-94dc-4312-812e-779758444399.png)
