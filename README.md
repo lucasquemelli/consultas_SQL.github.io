@@ -195,3 +195,6 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Também podemos aplicar a condição AND após uma condição HAVING:
 
 ![image](https://user-images.githubusercontent.com/81119854/130618347-8c9018b5-7b91-4ff7-8163-9eff6d200c5d.png)
+
+- Exercício: Quais foram os clientes que fizeram mais de 2000 compras em 2016?
+
