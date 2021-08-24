@@ -198,3 +198,4 @@ Para agrupar pelo valor máximo do preço, fazemos:
 
 - Exercício: Quais foram os clientes que fizeram mais de 2000 compras em 2016?
 
+![image](https://user-images.githubusercontent.com/81119854/130624432-71c969c2-3455-4093-8ff0-e9862c43f9f3.png)
