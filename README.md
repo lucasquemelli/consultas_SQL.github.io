@@ -206,7 +206,5 @@ Para agrupar pelo valor máximo do preço, fazemos:
 
 - Podemos utilizar CASE para agrupar por embalagens. Para isso, fazemos:
 
-![image](https://user-images.githubusercontent.com/81119854/130630853-57cc6762-bba3-47a3-ac47-51244cca0abb.png)
-
-![image](https://user-images.githubusercontent.com/81119854/130630899-078296e8-d81c-43ec-b042-7dcebe49ee0a.png)
+![image](https://user-images.githubusercontent.com/81119854/130631305-7d04e33a-54cf-468b-89e0-4efb69be56ba.png)
 
