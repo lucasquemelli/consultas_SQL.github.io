@@ -224,3 +224,4 @@ Assim, podemos visualizar a média de preços para produtos caro, barato e em co
 
 Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascidos antes de 1990 são velhos, nascidos entre 1990 e 1995 são jovens e nascidos depois de 1995 são crianças. Liste o nome do cliente e esta classificação.
 
+![image](https://user-images.githubusercontent.com/81119854/130636252-fa09aafb-7b2b-47f2-8072-438543b1efa4.png)
