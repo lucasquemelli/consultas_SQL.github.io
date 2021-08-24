@@ -217,3 +217,7 @@ Por exemplo: PETs que são caros possuem uma média em torno de 20 e PETs que s�
 ![image](https://user-images.githubusercontent.com/81119854/130633489-b83910e5-176a-40f6-9554-00766dc16ce1.png)
 
 Assim, podemos visualizar a média de preços para produtos caro, barato e em conta para embalagens PET. 
+
+- Podemos classificar o preço médio por sabor:
+
+![image](https://user-images.githubusercontent.com/81119854/130634333-9bd6de94-0bf1-4192-97e4-7f38ec57ecf3.png)
