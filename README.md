@@ -184,3 +184,6 @@ Para agrupar pelo valor máximo do preço, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/130615687-1efbcbab-ef13-4247-88aa-2ec1eccdef84.png)
 
+- Having: se aplica a um resultado de um SELECT que é grupado.
+
+![image](https://user-images.githubusercontent.com/81119854/130616875-014869d0-1735-4815-99fc-62210269764d.png)
