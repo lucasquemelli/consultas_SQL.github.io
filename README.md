@@ -203,3 +203,10 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Podemos utilizar CASE para classificar resultados. A utilização de CASE acontece de forma que um resultado é apresentado se ele atender certas condições. Abaixo um exemplo:
 
 ![image](https://user-images.githubusercontent.com/81119854/130628850-60edc959-fd19-469f-873a-f69b38242f63.png)
+
+- Podemos utilizar CASE para agrupar por embalagens. Para isso, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/130630853-57cc6762-bba3-47a3-ac47-51244cca0abb.png)
+
+![image](https://user-images.githubusercontent.com/81119854/130630899-078296e8-d81c-43ec-b042-7dcebe49ee0a.png)
+
