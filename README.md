@@ -187,3 +187,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Having: se aplica a um resultado de um SELECT que é grupado.
 
 ![image](https://user-images.githubusercontent.com/81119854/130616875-014869d0-1735-4815-99fc-62210269764d.png)
+
+- Não precisamos aplicar a condição having apenas para a função que utilizada, como no caso acima. Também podemos utilizar novas funções:
+
+![image](https://user-images.githubusercontent.com/81119854/130618079-d4bc6769-fffd-4060-a2d3-8ebc1552e9a1.png)
