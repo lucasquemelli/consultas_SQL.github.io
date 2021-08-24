@@ -199,3 +199,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Exercício: Quais foram os clientes que fizeram mais de 2000 compras em 2016?
 
 ![image](https://user-images.githubusercontent.com/81119854/130624432-71c969c2-3455-4093-8ff0-e9862c43f9f3.png)
+
+- Podemos utilizar CASE para classificar resultados. A utilização de CASE acontece de forma que um resultado é apresentado se ele atender certas condições. Abaixo um exemplo:
+
+![image](https://user-images.githubusercontent.com/81119854/130628850-60edc959-fd19-469f-873a-f69b38242f63.png)
