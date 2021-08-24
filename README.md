@@ -191,3 +191,7 @@ Para agrupar pelo valor máximo do preço, fazemos:
 - Não precisamos aplicar a condição having apenas para a função que utilizada, como no caso acima. Também podemos utilizar novas funções:
 
 ![image](https://user-images.githubusercontent.com/81119854/130618079-d4bc6769-fffd-4060-a2d3-8ebc1552e9a1.png)
+
+- Também podemos aplicar a condição AND após uma condição HAVING:
+
+![image](https://user-images.githubusercontent.com/81119854/130618347-8c9018b5-7b91-4ff7-8163-9eff6d200c5d.png)
