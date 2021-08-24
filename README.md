@@ -221,3 +221,6 @@ Assim, podemos visualizar a média de preços para produtos caro, barato e em co
 - Podemos classificar o preço médio por sabor:
 
 ![image](https://user-images.githubusercontent.com/81119854/130634333-9bd6de94-0bf1-4192-97e4-7f38ec57ecf3.png)
+
+Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascidos antes de 1990 são velhos, nascidos entre 1990 e 1995 são jovens e nascidos depois de 1995 são crianças. Liste o nome do cliente e esta classificação.
+
