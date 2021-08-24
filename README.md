@@ -210,3 +210,4 @@ Para agrupar pelo valor máximo do preço, fazemos:
 
 Repare no código acima que o mesmo tipo de embalagem pode apresentar 'status de preço' diferente. Isso acontece porque existem embalagens de um certo tipo que fazem parte de faixas diferentes de preço (subtipos). Portanto, certos tipos de embalagens podem ser classificados como baratos, em conta ou caro (subtipos) a depender da média da faixa de preço.
 
+Por exemplo: PETs que são caros possuem uma média em torno de 20 e PETs que são em conta possuem uma média em torno de 9.
