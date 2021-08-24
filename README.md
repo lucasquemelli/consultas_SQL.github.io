@@ -182,4 +182,5 @@ Para agrupar pelo valor máximo do preço, fazemos:
 
 - Exercício: Quantos itens de venda existem com a maior quantidade do produto '1101035'?
 
-![image](https://user-images.githubusercontent.com/81119854/130529455-f853daa9-5a26-4c84-be95-e72557e841de.png)
+![image](https://user-images.githubusercontent.com/81119854/130615687-1efbcbab-ef13-4247-88aa-2ec1eccdef84.png)
+
