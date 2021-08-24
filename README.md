@@ -211,3 +211,9 @@ Para agrupar pelo valor máximo do preço, fazemos:
 Repare no código acima que o mesmo tipo de embalagem pode apresentar 'status de preço' diferente. Isso acontece porque existem embalagens de um certo tipo que fazem parte de faixas diferentes de preço (subtipos). Portanto, certos tipos de embalagens podem ser classificados como baratos, em conta ou caro (subtipos) a depender da média da faixa de preço.
 
 Por exemplo: PETs que são caros possuem uma média em torno de 20 e PETs que são em conta possuem uma média em torno de 9.
+
+- Para ficar mais organizado, podemos ordenar o tipo de embalagem por ordem alfabética ao utilizarmos o comando ORDER BY:
+
+![image](https://user-images.githubusercontent.com/81119854/130633489-b83910e5-176a-40f6-9554-00766dc16ce1.png)
+
+Assim, podemos visualizar a média de preços para produtos caro, barato e em conta para embalagens PET. 
