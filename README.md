@@ -310,3 +310,6 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 
 ![image](https://user-images.githubusercontent.com/81119854/131171821-e91c285a-3a73-4ac7-91f6-9e86b730280d.png)
 
+- Para saber os bairros na tabela de vendedores que estão presentes na tabela de clientes, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/131193046-6dff91c6-3853-4d45-9830-499a2a93ba7b.png)
