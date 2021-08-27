@@ -279,3 +279,9 @@ Também podemos especificar quais clientes estão de férias:
 O campo "de férias" está presente apenas na tabela de vendedores, por isso, não precisamos especificar de qual campo:
 
 ![image](https://user-images.githubusercontent.com/81119854/131164305-4f86d11b-1d47-419d-b74d-c3d8480a9c5b.png)
+
+Também podemos utilizar o LEFT JOIN no lugar de INNER JOIN:
+
+![image](https://user-images.githubusercontent.com/81119854/131166373-80605337-5278-47a6-9254-67d2d6283c18.png)
+
+O resultado serão todos campos da tabela de vendedores e apenas a interseção da tabela de cliente.
