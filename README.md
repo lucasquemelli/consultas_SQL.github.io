@@ -290,7 +290,11 @@ Podemos também usar o RIGHT JOIN. A busca retorna todos os clientes e apenas os
 
 ![image](https://user-images.githubusercontent.com/81119854/131166904-cc2f2ba7-339e-485e-9081-7829ded33383.png)
 
-Se quisermos retornar clientes de um bairro que não tem vendedores e vendedores de um bairro que não tem clientes, usamos o FULL JOIN. Mas o MySQL não permite o uso desse comando. 
+Se quisermos retornar clientes de um bairro que não tem vendedores e vendedores de um bairro que não tem clientes, usamos o FULL JOIN. Mas o MySQL não permite o uso desse comando. Por isso, usamos o UNION:
+
+![image](https://user-images.githubusercontent.com/81119854/131173992-d33b2a2a-3ac0-4a28-bd15-a76747f52081.png)
+
+A consulta acima exibe os campos na tabela de vendedores que não há clientes e também na tabela de clientes em que não há vendedores.
 
 CROSS JOIN:
 
@@ -305,3 +309,4 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 - Para o uso do UNION em que campos iguais (neste caso: NOME) existam, para diferenciá-los, podemos fazer:
 
 ![image](https://user-images.githubusercontent.com/81119854/131171821-e91c285a-3a73-4ac7-91f6-9e86b730280d.png)
+
