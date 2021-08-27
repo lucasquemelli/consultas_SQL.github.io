@@ -300,3 +300,8 @@ CROSS JOIN:
 
 ![image](https://user-images.githubusercontent.com/81119854/131170934-91f4cb3d-626a-4b6c-90a5-8604facb61d0.png)
 
+Porém, se utilizarmos UNION ALL, os valores se repetem. 
+
+- Para o uso do UNION em que campos iguais (neste caso: NOME) existam, para diferenciá-los, podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/131171821-e91c285a-3a73-4ac7-91f6-9e86b730280d.png)
