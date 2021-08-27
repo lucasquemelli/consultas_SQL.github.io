@@ -264,7 +264,11 @@ Poderíamos direcionar a busca para um determinado ano:
 
 Note que não há nenhum campo dentro das condições acima - porque no ano utilizado filtro todo mundo comprou.
 
-- Não precisamos colocar prefixo ou sufixo o tempo todo. Podemos utilizar um campo da tabela. Por exemplo, apenas os vendedores que o bairro está na tabela de clientes (ou clientes dos bairros que os vendedores tem escritório):
+- Não precisamos colocar prefixo ou sufixo com uma letra o tempo todo. Podemos utilizar um campo da tabela. Por exemplo, apenas os vendedores que o bairro está na tabela de clientes (ou clientes dos bairros que os vendedores tem escritório):
 
 ![image](https://user-images.githubusercontent.com/81119854/131161933-833387d3-f1b4-4e69-b6b3-d4c74078c247.png)
+
+Ainda, nesta mesma forma, podemos selecionar campos específicos:
+
+![image](https://user-images.githubusercontent.com/81119854/131163222-ec3662c4-e9a3-4312-91ae-b11efcd4ab72.png)
 
