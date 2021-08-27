@@ -296,4 +296,7 @@ CROSS JOIN:
 
 ![image](https://user-images.githubusercontent.com/81119854/131167967-ab26573d-78ed-491c-96d8-91506c6ef488.png)
 
+- Podemos usar UNION para selecionarmos resultados distintos entre tabelas:
+
+![image](https://user-images.githubusercontent.com/81119854/131170934-91f4cb3d-626a-4b6c-90a5-8604facb61d0.png)
 
