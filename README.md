@@ -285,3 +285,7 @@ Também podemos utilizar o LEFT JOIN no lugar de INNER JOIN:
 ![image](https://user-images.githubusercontent.com/81119854/131166373-80605337-5278-47a6-9254-67d2d6283c18.png)
 
 O resultado serão todos campos da tabela de vendedores e apenas a interseção da tabela de cliente. Isto é: a vendedora Roberta Martins de Copacabana não tem clientes no mesmo bairro. 
+
+Podemos também usar o RIGHT JOIN. A busca retorna todos os clientes e apenas os vendedores correspondentes:
+
+![image](https://user-images.githubusercontent.com/81119854/131166904-cc2f2ba7-339e-485e-9081-7829ded33383.png)
