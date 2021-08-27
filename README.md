@@ -289,3 +289,11 @@ O resultado serão todos campos da tabela de vendedores e apenas a interseção 
 Podemos também usar o RIGHT JOIN. A busca retorna todos os clientes e apenas os vendedores correspondentes:
 
 ![image](https://user-images.githubusercontent.com/81119854/131166904-cc2f2ba7-339e-485e-9081-7829ded33383.png)
+
+Se quisermos retornar clientes de um bairro que não tem vendedores e vendedores de um bairro que não tem clientes, usamos o FULL JOIN. Mas o MySQL não permite o uso desse comando. 
+
+CROSS JOIN:
+
+![image](https://user-images.githubusercontent.com/81119854/131167967-ab26573d-78ed-491c-96d8-91506c6ef488.png)
+
+
