@@ -225,3 +225,11 @@ Assim, podemos visualizar a média de preços para produtos caro, barato e em co
 Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascidos antes de 1990 são velhos, nascidos entre 1990 e 1995 são jovens e nascidos depois de 1995 são crianças. Liste o nome do cliente e esta classificação.
 
 ![image](https://user-images.githubusercontent.com/81119854/130636252-fa09aafb-7b2b-47f2-8072-438543b1efa4.png)
+
+# JOINS
+
+- Vamos utilizar o comando JOIN para juntar duas tabelas com dados relacionados. Para tanto, devemos buscar tabelas que estejam relacionadas. Neste caso, escolhemos as tabelas de "notas_fiscais" e "tabela_de_vendedores" porque possuem o campo "MATRICULA" em comum.
+
+![image](https://user-images.githubusercontent.com/81119854/131132141-abfc4f14-efe0-43a1-b02b-47ac22578ecb.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131132248-5e9f00d5-b907-4c6f-9e28-703138e9a89b.png)
