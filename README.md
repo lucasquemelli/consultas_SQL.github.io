@@ -351,3 +351,4 @@ E também podemos fazer INNER JOIN com a VIEW:
 - Percentual do preço por embalagem em relação ao maior preço por embalagem:
 
 ![image](https://user-images.githubusercontent.com/81119854/131196815-e1dad048-c517-45b4-a2d8-9bd5591141e1.png)
+
