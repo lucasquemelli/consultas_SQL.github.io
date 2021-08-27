@@ -313,3 +313,7 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 - Para saber os bairros na tabela de vendedores que estão presentes na tabela de clientes, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131193046-6dff91c6-3853-4d45-9830-499a2a93ba7b.png)
+
+- Embalagens que têm o preço máximo maior do que 10:
+
+![image](https://user-images.githubusercontent.com/81119854/131193511-c816f7fb-1cb9-4ecf-b03b-9374b78d1aeb.png)
