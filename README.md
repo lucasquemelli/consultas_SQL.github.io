@@ -340,3 +340,6 @@ Encontramos a VIEW no 'navigator':
 
 ![image](https://user-images.githubusercontent.com/81119854/131195988-2b5d138b-19a8-4c7d-a573-80fcde185112.png)
 
+- Agora podemos fazer uma query com o próprio nome da VIEW:
+
+![image](https://user-images.githubusercontent.com/81119854/131196133-b74dcfc1-7ca7-4cfa-83bf-a89285577547.png)
