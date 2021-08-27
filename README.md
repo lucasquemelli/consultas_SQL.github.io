@@ -250,4 +250,7 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 
 ![image](https://user-images.githubusercontent.com/81119854/131137433-5e25175c-b8f9-4271-9e28-892d8a0491e5.png)
 
+- Para localizarmos um cliente que nunca comprou suco, podemos usar o LEFT JOIN para sabermos qual cliente está presenta na tabela de vendedores que não está presente na tabela de notas fiscais:
+
+![image](https://user-images.githubusercontent.com/81119854/131158128-508724e9-dbde-4dec-ae97-6ee835bcb369.png)
 
