@@ -245,3 +245,6 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 - Podemos obter o mesmo resultado anterior ao aplicar um CROSS JOIN e depois atribuir a condição WHERE:
 
 ![image](https://user-images.githubusercontent.com/81119854/131134424-fe3bf861-5f86-43c3-9276-7535b954a698.png)
+
+- Exercício: Obtenha o faturamento anual da empresa. Leve em consideração que o valor financeiro das vendas consiste em multiplicar a quantidade pelo preço.
+
