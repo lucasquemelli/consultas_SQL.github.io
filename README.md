@@ -248,3 +248,4 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 
 - Exercício: Obtenha o faturamento anual da empresa. Leve em consideração que o valor financeiro das vendas consiste em multiplicar a quantidade pelo preço.
 
+![image](https://user-images.githubusercontent.com/81119854/131136811-7bdddc55-a674-40ec-9586-452924ad5181.png)
