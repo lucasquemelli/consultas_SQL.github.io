@@ -323,3 +323,20 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 ![image](https://user-images.githubusercontent.com/81119854/131193629-53db64ab-6edf-4617-a368-b1e2f04ee0ee.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131194161-6e61864c-e721-4de2-9e1f-6995fbb54153.png)
+
+- Para criar VIEWS, clicamos com o botão direito do mouse sobre VIEW e selecionamos "Create view" no MySQL:
+
+![image](https://user-images.githubusercontent.com/81119854/131195740-a0e717c5-bc1c-4e14-8fb3-0e6e59ee45ac.png)
+
+Devemos adicionar a VIEW:
+
+![image](https://user-images.githubusercontent.com/81119854/131195787-5e698c87-a364-4977-9a2c-15555000f089.png)
+
+Damos um nome:
+
+![image](https://user-images.githubusercontent.com/81119854/131195869-b88d8567-b1ab-4626-9077-60d6dfa4f418.png)
+
+Encontramos a VIEW no 'navigator':
+
+![image](https://user-images.githubusercontent.com/81119854/131195988-2b5d138b-19a8-4c7d-a573-80fcde185112.png)
+
