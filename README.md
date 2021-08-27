@@ -262,4 +262,4 @@ Poderíamos direcionar a busca para um determinado ano:
 
 ![image](https://user-images.githubusercontent.com/81119854/131158956-1cd51035-1f01-4546-a82b-fc6bfffac500.png)
 
-Note que não há nenhum campo dentro das condições acima.
+Note que não há nenhum campo dentro das condições acima - porque no ano utilizado filtro todo mundo comprou.
