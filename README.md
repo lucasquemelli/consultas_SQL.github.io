@@ -321,3 +321,5 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 - Exercício:
 
 ![image](https://user-images.githubusercontent.com/81119854/131193629-53db64ab-6edf-4617-a368-b1e2f04ee0ee.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131194024-9946f225-bea6-42e7-b36a-675e8e18c128.png)
