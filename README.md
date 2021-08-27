@@ -272,3 +272,6 @@ Ainda, nesta mesma forma, podemos selecionar campos específicos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131163222-ec3662c4-e9a3-4312-91ae-b11efcd4ab72.png)
 
+Também podemos especificar quais clientes estão de férias:
+
+![image](https://user-images.githubusercontent.com/81119854/131163591-0dac3c69-bdb8-4d1b-94f0-79390f79791c.png)
