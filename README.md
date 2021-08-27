@@ -241,3 +241,7 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 - Para sabermos a quantidade total de vendas por vendedor, podemos fazer:
 
 ![image](https://user-images.githubusercontent.com/81119854/131133971-0002a7c6-3a99-4840-9e92-43f311a15c7e.png)
+
+- Podemos obter o mesmo resultado anterior ao aplicar um CROSS JOIN e depois atribuir a condição WHERE:
+
+![image](https://user-images.githubusercontent.com/81119854/131134424-fe3bf861-5f86-43c3-9276-7535b954a698.png)
