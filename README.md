@@ -317,3 +317,7 @@ Porém, se utilizarmos UNION ALL, os valores se repetem.
 - Embalagens que têm o preço máximo maior do que 10:
 
 ![image](https://user-images.githubusercontent.com/81119854/131193511-c816f7fb-1cb9-4ecf-b03b-9374b78d1aeb.png)
+
+- Exercício:
+
+![image](https://user-images.githubusercontent.com/81119854/131193629-53db64ab-6edf-4617-a368-b1e2f04ee0ee.png)
