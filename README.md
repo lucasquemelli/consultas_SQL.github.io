@@ -340,6 +340,11 @@ Encontramos a VIEW no 'navigator':
 
 ![image](https://user-images.githubusercontent.com/81119854/131195988-2b5d138b-19a8-4c7d-a573-80fcde185112.png)
 
-- Agora podemos fazer uma query com o próprio nome da VIEW:
+- Agora podemos fazer uma query condicional com o próprio nome da VIEW:
 
 ![image](https://user-images.githubusercontent.com/81119854/131196133-b74dcfc1-7ca7-4cfa-83bf-a89285577547.png)
+
+E também podemos fazer INNER JOIN com a VIEW:
+
+![image](https://user-images.githubusercontent.com/81119854/131196534-825ce6d4-09e7-4f93-8fb8-93de113b83ad.png)
+
