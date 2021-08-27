@@ -254,3 +254,6 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 
 ![image](https://user-images.githubusercontent.com/81119854/131158128-508724e9-dbde-4dec-ae97-6ee835bcb369.png)
 
+Se quisermos fazer uma busca direcionada apenas para saber qual o cliente que não está presente na tabela de notas fiscais, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/131158522-f2a15f33-db03-4243-a897-19aca0a99968.png)
