@@ -233,3 +233,7 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 ![image](https://user-images.githubusercontent.com/81119854/131132141-abfc4f14-efe0-43a1-b02b-47ac22578ecb.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131132248-5e9f00d5-b907-4c6f-9e28-703138e9a89b.png)
+
+- INNER JOIN: exibe tudo da tabela A e tudo da tabela B
+
+![image](https://user-images.githubusercontent.com/81119854/131132954-d5f55cbb-e4c6-4e92-aa56-a057ae0e4276.png)
