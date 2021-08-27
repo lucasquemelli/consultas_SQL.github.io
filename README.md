@@ -237,3 +237,7 @@ Exercício: Veja o ano de nascimento dos clientes e classifique-os como: Nascido
 - INNER JOIN: exibe tudo da tabela A e tudo da tabela B
 
 ![image](https://user-images.githubusercontent.com/81119854/131132954-d5f55cbb-e4c6-4e92-aa56-a057ae0e4276.png)
+
+- Para sabermos a quantidade total de vendas por vendedor, podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/131133971-0002a7c6-3a99-4840-9e92-43f311a15c7e.png)
