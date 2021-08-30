@@ -417,3 +417,5 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 ![image](https://user-images.githubusercontent.com/81119854/131375226-ad9c6621-ceb3-4995-b9b1-40dff45dbc2a.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131375342-52ac54ad-2170-4219-847a-77108d521f21.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131375464-2a2055b0-87a1-4370-8b2c-76de547fd4a5.png)
