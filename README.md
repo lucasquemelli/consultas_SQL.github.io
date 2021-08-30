@@ -496,3 +496,10 @@ Para a data de hoje com o mês e o ano em 02 dígitos, fazemos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131390031-01af0832-d069-41f8-bdd4-6a68f3fadcbf.png)
 
+O mês com 01 dígito:
+
+![image](https://user-images.githubusercontent.com/81119854/131390239-ea68b040-5a18-4204-a78f-02ebc04aedc0.png)
+
+A data completa (dia-mês-ano) com 02 dígitos:
+
+![image](https://user-images.githubusercontent.com/81119854/131390407-f9bbc65d-22fb-4eeb-87b1-d9336ce93a86.png)
