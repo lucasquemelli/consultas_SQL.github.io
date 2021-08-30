@@ -373,3 +373,7 @@ E também podemos fazer INNER JOIN com a VIEW:
 - Função UPPER: coloca o texto em maiúsculo.
 
 ![image](https://user-images.githubusercontent.com/81119854/131346275-a877bf83-9822-42d5-8812-4ee6ccaae748.png)
+
+- Função LOWER: coloca o texto em minúsculo.
+
+![image](https://user-images.githubusercontent.com/81119854/131346638-0207c8ca-1aa6-4d06-ab43-4c8015bc2e10.png)
