@@ -503,3 +503,11 @@ O mês com 01 dígito:
 A data completa (dia-mês-ano) com 02 dígitos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131390407-f9bbc65d-22fb-4eeb-87b1-d9336ce93a86.png)
+
+Se quisermos incluir o nome da semana:
+
+![image](https://user-images.githubusercontent.com/81119854/131390732-4cf460e9-1132-4bed-b7f9-e562eee20c09.png)
+
+Para sabermos a e-nésima semana do ano:
+
+![image](https://user-images.githubusercontent.com/81119854/131391014-5f5442d3-dbb2-4105-87ab-96deeca78a9f.png)
