@@ -406,3 +406,6 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 ![image](https://user-images.githubusercontent.com/81119854/131374276-58a1ecc8-9212-4517-861d-6a82ae4e7561.png)
 
+- CURRENT_TIMESTAMP: seleciona a data, a hora, o minuto e o segundo atuais.
+
+![image](https://user-images.githubusercontent.com/81119854/131374499-8139d705-3d11-46f4-9563-436d424d5db5.png)
