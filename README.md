@@ -391,3 +391,8 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - Função CONCAT aplicada à base de dados de nome 'sucos_vendas':
 
 ![image](https://user-images.githubusercontent.com/81119854/131348838-d8ba555d-2dd5-408e-b9ad-58072c6b7a9e.png)
+
+- Exercício: Faça uma consulta listando o nome do cliente e o endereço completo (Com rua, bairro, cidade e estado).
+
+![image](https://user-images.githubusercontent.com/81119854/131350838-61d9fe6c-cedc-4d58-9afc-dad7dbf6305c.png)
+
