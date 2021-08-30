@@ -352,7 +352,7 @@ E também podemos fazer INNER JOIN com a VIEW:
 
 ![image](https://user-images.githubusercontent.com/81119854/131196815-e1dad048-c517-45b4-a2d8-9bd5591141e1.png)
 
-- Funções de string
+# Funções de string
 
 - Função LTRIM: remove os espaços à esquerda/iniciais.
 
@@ -365,3 +365,7 @@ E também podemos fazer INNER JOIN com a VIEW:
 - Função TRIM: remove os espaços iniciais e finais.
 
 ![image](https://user-images.githubusercontent.com/81119854/131345119-7b086e33-590c-494b-bcff-0c206fd951ca.png)
+
+- Função CONCAT: concatena strings.
+
+![image](https://user-images.githubusercontent.com/81119854/131345875-6232f3f8-4e6c-45ff-b568-780375d7848c.png)
