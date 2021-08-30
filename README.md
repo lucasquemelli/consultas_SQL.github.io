@@ -435,3 +435,6 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - Podemos selecionar o nome de cada campo das datas:
 
 ![image](https://user-images.githubusercontent.com/81119854/131377630-a94edd46-80cd-4411-9bb5-482631e3c8dd.png)
+
+- Exercício: Crie uma consulta que mostre o nome e a idade atual dos clientes.
+
