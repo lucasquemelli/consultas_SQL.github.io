@@ -438,3 +438,6 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 - Exercício: Crie uma consulta que mostre o nome e a idade atual dos clientes.
 
+![image](https://user-images.githubusercontent.com/81119854/131379053-eec5cea7-5d58-4261-9393-c420ed859fa1.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131379329-b5a66aec-db5f-4015-aca0-b8ea29beb45b.png)
