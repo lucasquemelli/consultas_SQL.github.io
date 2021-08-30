@@ -401,3 +401,8 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - CURDATE: seleciona a data (Y-M-D) atual.
 
 ![image](https://user-images.githubusercontent.com/81119854/131373982-a263bef1-1096-40aa-97a8-e2c78877174b.png)
+
+- CURRENT_TIME: seleciona a hora de atual.
+
+![image](https://user-images.githubusercontent.com/81119854/131374276-58a1ecc8-9212-4517-861d-6a82ae4e7561.png)
+
