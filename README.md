@@ -512,9 +512,20 @@ Para sabermos a e-nésima semana do ano:
 
 ![image](https://user-images.githubusercontent.com/81119854/131391014-5f5442d3-dbb2-4105-87ab-96deeca78a9f.png)
 
-Para confirmamos, podemos selecionar da posição 1 o primeiro caracter:
+- Se quisermos converter um float para string:
 
 ![image](https://user-images.githubusercontent.com/81119854/131391408-8bec13eb-ce8b-4c86-a82d-a66d7b635fa5.png)
 
+Para confirmamos, podemos selecionar da posição 1 o primeiro caracter:
+
 ![image](https://user-images.githubusercontent.com/81119854/131391737-9b9d25c2-fb3d-46db-8e6b-5d1094a887bb.png)
 
+- Exercício: 
+
+Queremos construir um SQL cujo resultado seja, para cada cliente:
+
+“O cliente João da Silva faturou 120000 no ano de 2016”.
+
+Somente para o ano de 2016.
+
+![image](https://user-images.githubusercontent.com/81119854/131393501-7a15bcc3-b6e1-4735-8d6e-970187dddfbc.png)
