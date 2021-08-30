@@ -477,3 +477,13 @@ Primeira casa decimal igual a 7.
 - Exercício: Na tabela de notas fiscais temos o valor do imposto. Já na tabela de itens temos a quantidade e o faturamento. Calcule o valor do imposto pago no ano de 2016 arredondando para o menor inteiro.
 
 ![image](https://user-images.githubusercontent.com/81119854/131385813-6351c5c9-20b9-4a78-985d-9ece56e74a88.png)
+
+# Conversão de dados
+
+Para exibir a data de hoje podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/131389325-056d0391-5309-494f-8a32-50bc52f65928.png)
+
+Entretanto, se quisermos selecioanr apenas o ano, faremos:
+
+![image](https://user-images.githubusercontent.com/81119854/131389576-8d54c6f3-4076-4126-a1d0-8cb78c772c47.png)
