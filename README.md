@@ -395,3 +395,9 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - Exercício: Faça uma consulta listando o nome do cliente e o endereço completo (Com rua, bairro, cidade e estado).
 
 ![image](https://user-images.githubusercontent.com/81119854/131351210-ab57933e-1c68-4a40-846d-e46fa26c3c80.png)
+
+# Funções de data
+
+- CURDATE: seleciona a data (Y-M-D) atual.
+
+![image](https://user-images.githubusercontent.com/81119854/131373982-a263bef1-1096-40aa-97a8-e2c78877174b.png)
