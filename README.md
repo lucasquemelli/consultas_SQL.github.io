@@ -431,3 +431,7 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 ![image](https://user-images.githubusercontent.com/81119854/131376736-19ac9b0b-264c-4cb8-a106-5956524fad7d.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/131377012-22134214-4a74-4bee-aa05-b94463049e18.png)
+
+- Podemos selecionar o nome de cada campo das datas:
+
+![image](https://user-images.githubusercontent.com/81119854/131377630-a94edd46-80cd-4411-9bb5-482631e3c8dd.png)
