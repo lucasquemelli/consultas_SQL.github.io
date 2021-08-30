@@ -484,6 +484,15 @@ Para exibir a data de hoje podemos fazer:
 
 ![image](https://user-images.githubusercontent.com/81119854/131389325-056d0391-5309-494f-8a32-50bc52f65928.png)
 
-Entretanto, se quisermos selecioanr apenas o ano, faremos:
+Entretanto, se quisermos selecionar o ano com 04 dígitos, faremos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131389576-8d54c6f3-4076-4126-a1d0-8cb78c772c47.png)
+
+Mas se quisermos o ano com apenas 02 dígitos, podemos fazer:
+
+![image](https://user-images.githubusercontent.com/81119854/131389845-bfba5945-6579-41b1-990f-62cc9a77f3ba.png)
+
+Para a data de hoje com o mês e o ano em 02 dígitos, fazemos:
+
+![image](https://user-images.githubusercontent.com/81119854/131390031-01af0832-d069-41f8-bdd4-6a68f3fadcbf.png)
+
