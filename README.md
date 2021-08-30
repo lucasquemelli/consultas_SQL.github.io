@@ -369,3 +369,7 @@ E também podemos fazer INNER JOIN com a VIEW:
 - Função CONCAT: concatena strings.
 
 ![image](https://user-images.githubusercontent.com/81119854/131345875-6232f3f8-4e6c-45ff-b568-780375d7848c.png)
+
+- Função UPPER: coloca o texto em maiúsculo.
+
+![image](https://user-images.githubusercontent.com/81119854/131346275-a877bf83-9822-42d5-8812-4ee6ccaae748.png)
