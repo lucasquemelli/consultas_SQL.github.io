@@ -459,3 +459,7 @@ Primeira casa decimal igual a 3.
 Primeira casa decimal igual a 7.
 
 ![image](https://user-images.githubusercontent.com/81119854/131382857-4108e77a-b6e9-406d-aa0c-1b0f1a9ece1b.png)
+
+- Arredondamento para o primeiro inteiro abaixo:
+
+![image](https://user-images.githubusercontent.com/81119854/131383090-45432ec0-7df5-4290-adec-6280bf569833.png)
