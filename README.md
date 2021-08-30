@@ -377,3 +377,13 @@ E também podemos fazer INNER JOIN com a VIEW:
 - Função LOWER: coloca o texto em minúsculo.
 
 ![image](https://user-images.githubusercontent.com/81119854/131346638-0207c8ca-1aa6-4d06-ab43-4c8015bc2e10.png)
+
+- Função SUBSTRING: utilizada para extrair posições e número de caracteres. 
+
+Exemplo 01: extraia a partir da posição 6.
+
+![image](https://user-images.githubusercontent.com/81119854/131346991-0e39e295-132c-48b9-bd1c-60bfad894a2c.png)
+
+Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
+
+![image](https://user-images.githubusercontent.com/81119854/131347207-0cfb3307-baba-41cc-8ef7-0bf74c923839.png)
