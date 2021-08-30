@@ -423,3 +423,5 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - Podemos saber diferenças entre momentos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131376004-f466f32f-5ea6-4067-a07f-d6adb10e6a13.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131376186-d7b1c7e6-c061-4fb2-afe9-b8a9f9f9b8d8.png)
