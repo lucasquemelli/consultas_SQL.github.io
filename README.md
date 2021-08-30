@@ -394,5 +394,4 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 - Exercício: Faça uma consulta listando o nome do cliente e o endereço completo (Com rua, bairro, cidade e estado).
 
-![image](https://user-images.githubusercontent.com/81119854/131350838-61d9fe6c-cedc-4d58-9afc-dad7dbf6305c.png)
-
+![image](https://user-images.githubusercontent.com/81119854/131351210-ab57933e-1c68-4a40-846d-e46fa26c3c80.png)
