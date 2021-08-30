@@ -511,3 +511,10 @@ Se quisermos incluir o nome da semana:
 Para sabermos a e-nésima semana do ano:
 
 ![image](https://user-images.githubusercontent.com/81119854/131391014-5f5442d3-dbb2-4105-87ab-96deeca78a9f.png)
+
+Para confirmamos, podemos selecionar da posição 1 o primeiro caracter:
+
+![image](https://user-images.githubusercontent.com/81119854/131391408-8bec13eb-ce8b-4c86-a82d-a66d7b635fa5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131391737-9b9d25c2-fb3d-46db-8e6b-5d1094a887bb.png)
+
