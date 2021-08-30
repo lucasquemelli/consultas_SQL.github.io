@@ -378,7 +378,7 @@ E também podemos fazer INNER JOIN com a VIEW:
 
 ![image](https://user-images.githubusercontent.com/81119854/131346638-0207c8ca-1aa6-4d06-ab43-4c8015bc2e10.png)
 
-- Função SUBSTRING: utilizada para extrair posições e número de caracteres. 
+- Função SUBSTRING: utilizada para extrair posições e número de caracteres de uma string. 
 
 Exemplo 01: extraia a partir da posição 6.
 
@@ -387,3 +387,7 @@ Exemplo 01: extraia a partir da posição 6.
 Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 ![image](https://user-images.githubusercontent.com/81119854/131347207-0cfb3307-baba-41cc-8ef7-0bf74c923839.png)
+
+- Função CONCAT aplicada à base de dados de nome 'sucos_vendas':
+
+![image](https://user-images.githubusercontent.com/81119854/131348838-d8ba555d-2dd5-408e-b9ad-58072c6b7a9e.png)
