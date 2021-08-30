@@ -429,3 +429,5 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 - Podemos subtrair datas:
 
 ![image](https://user-images.githubusercontent.com/81119854/131376736-19ac9b0b-264c-4cb8-a106-5956524fad7d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131377012-22134214-4a74-4bee-aa05-b94463049e18.png)
