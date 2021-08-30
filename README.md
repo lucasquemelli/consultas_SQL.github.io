@@ -473,3 +473,7 @@ Primeira casa decimal igual a 7.
 - Arredondamento para o número de casas decimais que quisermos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131383956-8f1acd38-9229-42ad-b7cc-9ee75fab456b.png)
+
+- Exercício: Na tabela de notas fiscais temos o valor do imposto. Já na tabela de itens temos a quantidade e o faturamento. Calcule o valor do imposto pago no ano de 2016 arredondando para o menor inteiro.
+
+![image](https://user-images.githubusercontent.com/81119854/131385813-6351c5c9-20b9-4a78-985d-9ece56e74a88.png)
