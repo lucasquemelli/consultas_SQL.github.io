@@ -463,3 +463,13 @@ Primeira casa decimal igual a 7.
 - Arredondamento para o primeiro inteiro abaixo:
 
 ![image](https://user-images.githubusercontent.com/81119854/131383090-45432ec0-7df5-4290-adec-6280bf569833.png)
+
+- Função que apresenta um número aleatório toda vez que executada:
+
+![image](https://user-images.githubusercontent.com/81119854/131383309-48432001-11cd-4693-94e9-aef6beadb602.png)
+
+![image](https://user-images.githubusercontent.com/81119854/131383374-8fc72581-e283-40bd-90b5-5dd7c61e398e.png)
+
+- Arredondamento para o número de casas decimais que quisermos:
+
+![image](https://user-images.githubusercontent.com/81119854/131383956-8f1acd38-9229-42ad-b7cc-9ee75fab456b.png)
