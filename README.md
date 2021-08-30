@@ -410,7 +410,8 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 ![image](https://user-images.githubusercontent.com/81119854/131374499-8139d705-3d11-46f4-9563-436d424d5db5.png)
 
-- Podemos selecionar apenas o ano:
+- Podemos selecionar apenas uma parte do momento atual:
 
 ![image](https://user-images.githubusercontent.com/81119854/131375040-634c8770-95db-4c52-838e-a549c9af6d2c.png)
 
+![image](https://user-images.githubusercontent.com/81119854/131375226-ad9c6621-ceb3-4995-b9b1-40dff45dbc2a.png)
