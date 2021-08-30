@@ -440,4 +440,22 @@ Exemplo 02: extraia a partir da posição 6 e extraia 4 caracteres.
 
 ![image](https://user-images.githubusercontent.com/81119854/131379053-eec5cea7-5d58-4261-9393-c420ed859fa1.png)
 
+Em anos:
+
 ![image](https://user-images.githubusercontent.com/81119854/131379329-b5a66aec-db5f-4015-aca0-b8ea29beb45b.png)
+
+# Funções matemáticas
+
+- Arredondamento para o primeiro inteiro acima:
+
+![image](https://user-images.githubusercontent.com/81119854/131382503-6b99affb-01c3-421b-8ffe-0922df42d086.png)
+
+- Arrendondamento para o primeiro inteiro mais próximo da primeira casa decimal:
+
+Primeira casa decimal igual a 3.
+
+![image](https://user-images.githubusercontent.com/81119854/131382795-70f93b53-35ab-47c5-85bc-05ebef9c3aa2.png)
+
+Primeira casa decimal igual a 7.
+
+![image](https://user-images.githubusercontent.com/81119854/131382857-4108e77a-b6e9-406d-aa0c-1b0f1a9ece1b.png)
