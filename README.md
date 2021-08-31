@@ -558,7 +558,6 @@ Se não quisermos sinalizar a diferença em valor numérico, podemos remover est
 
 ![image](https://user-images.githubusercontent.com/81119854/131563148-1c929611-664c-4f1d-a582-b6ca94aad3ec.png)
 
-- Agrupamento da quantidade vendida por ano de cada sabor:
+- Agrupamento da quantidade vendida por ano de cada sabor, em ordem decrescente:
 
-![image](https://user-images.githubusercontent.com/81119854/131567457-418e5818-e64a-46b5-afa1-95a75e05f03b.png)
-
+![image](https://user-images.githubusercontent.com/81119854/131568296-12051891-edfc-44d0-8909-0893a08ec27e.png)
