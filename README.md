@@ -536,4 +536,4 @@ Somente para o ano de 2016.
 
 Para sabermos se a quantidade de itens comprados (na tabela itens notas fiscais) é menor ou igual ao volume de compras na tabela de clientes, para cada cliente (CPF), primeiro agrupamos a quantidade de compras de cada cliente por um período de tempo (ano-mes, neste caso):
 
-![image](https://user-images.githubusercontent.com/81119854/131511474-85833ee4-fb3b-4443-8125-ef27468e07d1.png)
+![image](https://user-images.githubusercontent.com/81119854/131513309-865835ee-8797-4ff5-ac1a-1b7d8fed214b.png)
