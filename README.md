@@ -541,3 +541,11 @@ Para sabermos se a quantidade de itens comprados (na tabela itens notas fiscais)
 Depois comparamos:
 
 ![image](https://user-images.githubusercontent.com/81119854/131517215-0a32cf52-421e-48f4-865c-5a613b1cb10c.png)
+
+Podemos comparar de forma a incluir a diferença entre o limite e a quantidade de compras:
+
+![image](https://user-images.githubusercontent.com/81119854/131520199-450d0416-cc9a-423e-a8d3-1521c9ec8893.png)
+
+Se quisermos, também podemos adicionar um campo para sinalizar o status da compra como sendo a diferença entre o limite e o valor total comprado por pessoa em certo mês:
+
+![image](https://user-images.githubusercontent.com/81119854/131521508-124eadb2-c6ea-447b-9d1b-4d5b70ed346c.png)
