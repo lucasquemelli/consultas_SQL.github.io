@@ -557,3 +557,8 @@ Se não quisermos sinalizar a diferença em valor numérico, podemos remover est
 - Exercício: Nesta aula construímos um relatório que apresentou os clientes que tiveram vendas inválidas. Complemente este relatório listando somente os que tiveram vendas inválidas e calculando a diferença entre o limite de venda máximo e o realizado, em percentuais.
 
 ![image](https://user-images.githubusercontent.com/81119854/131563148-1c929611-664c-4f1d-a582-b6ca94aad3ec.png)
+
+- Agrupamento da quantidade vendida por ano de cada sabor:
+
+![image](https://user-images.githubusercontent.com/81119854/131567457-418e5818-e64a-46b5-afa1-95a75e05f03b.png)
+
