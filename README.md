@@ -553,3 +553,7 @@ Se quisermos, também podemos adicionar um campo para sinalizar o status da comp
 Se não quisermos sinalizar a diferença em valor numérico, podemos remover esta coluna:
 
 ![image](https://user-images.githubusercontent.com/81119854/131522181-0107eee0-0543-41a1-b8a3-d22168c48d93.png)
+
+- Exercício: Nesta aula construímos um relatório que apresentou os clientes que tiveram vendas inválidas. Complemente este relatório listando somente os que tiveram vendas inválidas e calculando a diferença entre o limite de venda máximo e o realizado, em percentuais.
+
+![image](https://user-images.githubusercontent.com/81119854/131563148-1c929611-664c-4f1d-a582-b6ca94aad3ec.png)
