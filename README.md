@@ -529,3 +529,11 @@ Queremos construir um SQL cujo resultado seja, para cada cliente:
 Somente para o ano de 2016.
 
 ![image](https://user-images.githubusercontent.com/81119854/131393501-7a15bcc3-b6e1-4735-8d6e-970187dddfbc.png)
+
+# Relatórios de vendas
+
+1.0 - Relatório de vendas válidas
+
+Para sabermos se a quantidade de itens comprados (na tabela itens notas fiscais) é menor ou igual ao volume de compras na tabela de clientes, para cada cliente (CPF), primeiro agrupamos a quantidade de compras de cada cliente por um período de tempo (ano-mes, neste caso):
+
+![image](https://user-images.githubusercontent.com/81119854/131511474-85833ee4-fb3b-4443-8125-ef27468e07d1.png)
