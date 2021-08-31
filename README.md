@@ -549,3 +549,7 @@ Podemos comparar de forma a incluir a diferença entre o limite e a quantidade d
 Se quisermos, também podemos adicionar um campo para sinalizar o status da compra como sendo a diferença entre o limite e o valor total comprado por pessoa em certo mês:
 
 ![image](https://user-images.githubusercontent.com/81119854/131521508-124eadb2-c6ea-447b-9d1b-4d5b70ed346c.png)
+
+Se não quisermos sinalizar a diferença em valor numérico, podemos remover esta coluna:
+
+![image](https://user-images.githubusercontent.com/81119854/131522181-0107eee0-0543-41a1-b8a3-d22168c48d93.png)
