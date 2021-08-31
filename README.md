@@ -565,3 +565,7 @@ Se não quisermos sinalizar a diferença em valor numérico, podemos remover est
 - Percentual, para o ano de 2016, da quantidade vendida de cada sabor:
 
 ![image](https://user-images.githubusercontent.com/81119854/131573585-815048b7-a450-4447-9de3-5bc75eb214a1.png)
+
+- Percentual, para o ano de 2016, da quantidade vendida de cada sabor, em ordem decrescente:
+
+![image](https://user-images.githubusercontent.com/81119854/131573868-f58c321e-2ced-443e-a551-e2023fb698a3.png)
