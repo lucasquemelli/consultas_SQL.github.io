@@ -569,3 +569,7 @@ Se não quisermos sinalizar a diferença em valor numérico, podemos remover est
 - Percentual, para o ano de 2016, da quantidade vendida de cada sabor, em ordem decrescente:
 
 ![image](https://user-images.githubusercontent.com/81119854/131573868-f58c321e-2ced-443e-a551-e2023fb698a3.png)
+
+- Exercício: Modifique o relatório mas agora para ver o ranking das vendas por tamanho.
+
+![image](https://user-images.githubusercontent.com/81119854/131575276-6cf72c3e-2775-4265-a427-2d0e19a59e92.png)
